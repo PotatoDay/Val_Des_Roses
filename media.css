@@ -1,0 +1,31 @@
+
+
+/* SMARTPHONES LANDSCAPE */
+@media  screen and (max-width: 480px) {
+
+    .button{
+        background-color: rgb(232, 235, 36);
+        color: white;
+        padding: 10px 16px;
+        text-align: center;
+        display: inline-block;
+        font-size: 2rem;
+        border: 1px solid rgb(173, 25, 47, 0);
+     
+        cursor: pointer;
+      }
+    
+}
+
+/* TABLETS PORTRAIT */
+@media  screen and (max-width: 768px) {
+
+
+}
+
+
+/* TABLET LANDSCAPE / DESKTOP */
+@media  screen and (max-width: 1024px) {
+
+
+}    
